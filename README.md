@@ -1,19 +1,9 @@
-# kodluyoruz-insertion-sort
-Proje 1
+# Algoritma Ödevleri
 
-[22,27,16,2,18,6] -> Insertion Sort
+Bu repo, Kodluyoruz platformundaki "Veri Yapıları ve Algoritmalar" kursu kapsamında yaptığım ödevleri içerir.
 
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+## İçindekiler
 
-Big-O gösterimini yazınız.
-
-Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
-.
-
-
-
-[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+- [Insertion Sort](./01-insertion-sort)
+- [Selection Sort](./02-selection-sort)
+- [Merge Sort](./03-merge-sort)
