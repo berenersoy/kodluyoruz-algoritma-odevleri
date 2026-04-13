@@ -6,3 +6,4 @@ Bu repo, Kodluyoruz platformundaki "Veri Yapıları ve Algoritmalar" kursu kapsa
 
 - [Insertion Sort](./01-insertion-sort)
 - [Merge Sort](./02-merge-sort)
+- [Binary Search Tree ](./03-binary-search-tree)
